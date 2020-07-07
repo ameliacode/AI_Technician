@@ -15,8 +15,8 @@ Some criteria that technician will judge:
 judge scenario: is he/she jump/spin/step? -> if jump rotation, correct edge? coverage? -> based on specific athelete's record GOE
 
 ## Plans/Issues
-Rules change slightly season by season -> How are we gonna manage old data 
-Open pose 
-Specify top athletes or objective data
+- Rules change slightly season by season -> How are we gonna manage old data 
+- Open pose -> check out papers blahblah
+- Specify top athletes or objective data, or investigate..
 
 
