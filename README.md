@@ -16,7 +16,7 @@ judge scenario: is he/she jump/spin/step? -> if jump rotation, correct edge? cov
 
 ## Plans/Issues
 - Rules change slightly season by season -> How are we gonna manage old data 
-- Open pose -> check out papers blahblah
+- Open pose -> check out papers
 - Specify top athletes or objective data, or investigate..
-
+- Update "project" category
 
