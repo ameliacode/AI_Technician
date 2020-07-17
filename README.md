@@ -1,7 +1,7 @@
 # AI_Technician
 Judging Ice coverage,  Step Sequences and Jump rotations with radical
 
-On development starting on July 3rd  
+On development starting on August   
 No rough plans yet / for grad paper
 
 !Messy draft down below!  
