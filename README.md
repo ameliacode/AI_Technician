@@ -1,9 +1,6 @@
 # AI_Technician
 Judging Ice coverage,  Step Sequences and Jump rotations with radical
 
-On development starting on August   
-No rough plans yet / for grad paper
-
 !Messy draft down below!  
 
 ## Rough Draft
@@ -18,5 +15,4 @@ judge scenario: is he/she jump/spin/step? -> if jump rotation, correct edge? cov
 - Rules change slightly season by season -> How are we gonna manage the "old data" 
 - Open pose -> check out papers
 - Specify top athletes or objective data, or investigate..
-- Update "project" category
 
